@@ -1,0 +1,65 @@
+
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    
+    margin: 10px;
+    justify-content: center;
+    font-size: large;
+    background-color: burlywood;
+}
+
+body {
+    background-image: url(./images/mountain-edit2.jpeg);
+    align-items: center;
+}
+
+#self-image {
+    max-width: 350px;
+}
+
+#possum-rot {
+    max-width: 450px;
+}
+
+#greasey-van {
+    max-width: 375px;
+}
+
+#About-me {
+    border-style: solid;
+    border-color: moccasin;
+    border-width: thick;
+    margin: 10px;
+    background-color: burlywood;
+    max-width: 65%;
+    
+}
+
+#live-example {
+    border-style: solid;
+    border-color: moccasin;
+    border-width: thick;
+    margin: 10px;
+    background-color: burlywood;
+    display: inline-block;
+}
+
+#contact-me {
+    border-style: solid;
+    border-color: moccasin;
+    border-width: thick;
+    margin: 10px;
+    background-color: burlywood;
+    max-width: fit-content;
+}
+
+img.thumbnail {
+    width: 300px;
+}
+img.thumbnail:hover {
+    width: 105%;
+
+}
+
