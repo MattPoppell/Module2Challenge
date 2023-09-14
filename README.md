@@ -11,7 +11,10 @@ Installation is not required.
 Application should run when opened in browser.
 
 ## Usage
+<img width="1512" alt="Screenshot 2023-09-14 at 1 34 03 PM" src="https://github.com/MattPoppell/verbose-dollop/assets/142950050/bd8ef961-b70a-4324-be9f-04eb3dbdeec7">
+
+
 
 ## Live Link
-https://mattpoppell.github.io/verbose-dollop/#live-example
+https://mattpoppell.github.io/verbose-dollop/
 
